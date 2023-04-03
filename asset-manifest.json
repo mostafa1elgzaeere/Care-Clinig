@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34b717a2.css",
-    "main.js": "/static/js/main.8d10d9be.js",
-    "static/media/back.png": "/static/media/back.e228cb85f9b8465faeb8.png",
-    "static/media/doctor.png": "/static/media/doctor.11f7b0f28aa7258d486d.png",
-    "index.html": "/index.html",
-    "main.34b717a2.css.map": "/static/css/main.34b717a2.css.map",
-    "main.8d10d9be.js.map": "/static/js/main.8d10d9be.js.map"
+    "main.css": "/Care-Clinig/static/css/main.34b717a2.css",
+    "main.js": "/Care-Clinig/static/js/main.6cedbcfe.js",
+    "static/media/back.png": "/Care-Clinig/static/media/back.e228cb85f9b8465faeb8.png",
+    "static/media/doctor.png": "/Care-Clinig/static/media/doctor.11f7b0f28aa7258d486d.png",
+    "index.html": "/Care-Clinig/index.html",
+    "main.34b717a2.css.map": "/Care-Clinig/static/css/main.34b717a2.css.map",
+    "main.6cedbcfe.js.map": "/Care-Clinig/static/js/main.6cedbcfe.js.map"
   },
   "entrypoints": [
     "static/css/main.34b717a2.css",
-    "static/js/main.8d10d9be.js"
+    "static/js/main.6cedbcfe.js"
   ]
 }
