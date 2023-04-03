@@ -16,7 +16,7 @@ function Nav(props) {
                     <div className="collapse navbar-collapse justify-content-end" id="navbarSupport">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="">Home</NavLink>
+                                <NavLink className="nav-link" to="/Care-Clinig">Home</NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink className="nav-link" to="/appointment">Appointment</NavLink>
